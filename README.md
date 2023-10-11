@@ -1,5 +1,5 @@
 # Fundamentals-of-matrix-computing
-Homework on the course "Fundamentals of matrix computing"
+Homeworks on the course "Fundamentals of matrix computing"
 
 ## Implemented algorithms of matrix computing such as
 
